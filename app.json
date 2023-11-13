@@ -1,5 +1,5 @@
 {
-  "name": "ROWDY-BABY-MD",
+  "name": "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️",
   "description": "A WHATSAPP MD BOT CREATED BY KALINDU...",
   "logo": "https://telegra.ph/file/bb427a8083dbac0b5138c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "TYPE YOUR BOT OWNER NAME...😊",
-      "value": "KALINDU"
+      "value": "Manuwa"
       },
     "HEROKU_API_KEY": {
     "description": "TYPE HEROKU API KEY...😊",
@@ -44,7 +44,7 @@
   },
   "OWNER_NUMBER": {
     "description": "GIVE OWNER NUMBER...😊",    
-      "value": "94758179948"
+      "value": "94742274855"
   },
    "SESSION_ID": {
     "description": "GIVE SESSION_ID AFTER QR SCAN...😊 "
